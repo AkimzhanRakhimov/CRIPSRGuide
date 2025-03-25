@@ -59,13 +59,6 @@ This project allows users to generate CRISPR guides for input DNA sequences with
    The app should now be available at `http://localhost:8000`.
 
 ## Usage
-
-## Video Demonstration
-
-<video width="640" height="360" controls>
-  <source src="Home_CRISPR_Designer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
  
 1. Open the app in your browser.
 2. Enter your DNA sequence in the provided input field.
