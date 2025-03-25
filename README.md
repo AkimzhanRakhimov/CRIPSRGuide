@@ -69,5 +69,5 @@ This project allows users to generate CRISPR guides for input DNA sequences with
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
+
 
