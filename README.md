@@ -60,6 +60,8 @@ This project allows users to generate CRISPR guides for input DNA sequences with
 
 ## Usage
 
+[Watch Video](Home_CRISPR_Designer.mp4)
+ 
 1. Open the app in your browser.
 2. Enter your DNA sequence in the provided input field.
 3. Choose the desired PAM sequence (`NGG` or `NAG`).
