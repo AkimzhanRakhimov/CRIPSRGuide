@@ -22,7 +22,7 @@ This project allows users to generate CRISPR guides for input DNA sequences with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/crispr-designer.git
+   git clone https://github.com/yourusername/CRIPSRGuide.git
    ```
 
 2. Navigate to the project directory:
