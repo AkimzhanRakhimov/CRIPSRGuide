@@ -60,15 +60,15 @@ This project allows users to generate CRISPR guides for input DNA sequences with
 
 ## Usage
 
-## Video Demonstration
-
-[Watch the video on YouTube](https://www.youtube.com/watch?v=XojD8MJFNVs)
- 
 1. Open the app in your browser.
 2. Enter your DNA sequence in the provided input field.
 3. Choose the desired PAM sequence (`NGG` or `NAG`).
 4. Click **Generate Guides** to receive CRISPR guides.
 5. You can download the generated guides as a `.txt` file.
+
+## Video Demonstration
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=XojD8MJFNVs)
 
 ## License
 
